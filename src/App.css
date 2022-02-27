@@ -1,0 +1,30 @@
+.App {
+  margin: 0 auto;
+  width: 50%;
+}
+
+header {
+  background-color: brown;
+  text-align: center;
+  color: #fff;
+  border-radius: 0 0 8px 8px;
+}
+
+header p {
+  height: 100%;
+  margin: 0 0 20px 0;
+  padding: 10px;
+}
+
+.card {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+img {
+  border-radius: 8px;
+  width: 175px;
+  height: 350px;
+  object-fit: cover;
+  margin-right: 20px;
+}
